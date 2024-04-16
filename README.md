@@ -1,4 +1,4 @@
-# Algoritimos de Ordem de Processos
+# Algoritimos de Escalonamento
 
 Esses algoritimos foram desenvolvidos para aula de Sistemas Operacionais I
 Os algoritimos simulam, processos que uma CPU faz.
